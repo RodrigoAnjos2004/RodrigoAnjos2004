@@ -36,8 +36,8 @@
 
 <div align="center">
   <a href="https://github.com/RodrigoAnjos2004">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="275em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&theme=nord"/>
+  <img height="213em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="255em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&theme=nord"/>
 
 </div>
  <div align="center">
