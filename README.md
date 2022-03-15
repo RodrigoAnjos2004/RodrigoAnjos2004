@@ -29,7 +29,7 @@
 
 
 <div style="display: inline_block;"><br>
-    <a href="https://app.daily.dev/RD2004"><img align="right" alt="rd-pic" height="500" src="https://api.daily.dev/devcards/f1a0af5038274a0dae81b9ab55852530.png?r=cd5" alt="Rodrigo Silva dos Anjos's Dev Card"> 
+    <a href="https://app.daily.dev/RD2004"><img align="right" alt="rd-pic" height="400" src="https://api.daily.dev/devcards/f1a0af5038274a0dae81b9ab55852530.png?r=cd5" alt="Rodrigo Silva dos Anjos's Dev Card"> 
 </div> 
  
 
