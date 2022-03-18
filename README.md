@@ -44,7 +44,13 @@
   <img height="400" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=nord" alt="RodrigoAnjos2004" />
 </div> 
  
-
+# Linguagens
+<h4 align="center">Linguagens mais usadas (por número de commits)</h4>
+<p align="center">
+	<a href="https://profile.codersrank.io/user/RodrigoAnjos2004#Tech%20Skills">
+		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=RodrigoAnjos2004&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,HTML,JavaScript,PHP,Python,SCSS,SQL,Shell,&show-other-skills=true&bg=white">
+	</a>
+</p>
 
 ```RD
 #include <stdio.h>
@@ -61,10 +67,15 @@ printf( "Yagami Raito");
    return 0;
 }
 ```
+ 
+<!-- ![Metrics](https://metrics.lecoq.io/RodrigoAnjos2004?template=classic&isocalendar=1&stars=1&followup=1&isocalendar.duration=half-year&stars.limit=4&followup.sections=repositories&followup.indepth=false&config.timezone=America%2FSao_Paulo) -->
 
+ <p align="center">
+	<img width="625em" src="https://metrics.lecoq.io/RodrigoAnjos2004?template=classic&isocalendar=1&stars=1&followup=1&isocalendar.duration=half-year&stars.limit=4&followup.sections=repositories&followup.indepth=false&config.timezone=America%2FSao_Paulo" />
+</p>
 
-  
-[![RodrigoAnjos2004's github activity graph](https://activity-graph.herokuapp.com/graph?username=RodrigoAnjos2004&theme=nord)](https://github.com/RodrigoAnjos2004/github-readme-activity-graph)
+<!--   
+[![RodrigoAnjos2004's github activity graph](https://activity-graph.herokuapp.com/graph?username=RodrigoAnjos2004&theme=nord)](https://github.com/RodrigoAnjos2004/github-readme-activity-graph) -->
 
 
    
