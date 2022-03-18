@@ -71,7 +71,7 @@ printf( "Yagami Raito");
 <!-- ![Metrics](https://metrics.lecoq.io/RodrigoAnjos2004?template=classic&isocalendar=1&stars=1&followup=1&isocalendar.duration=half-year&stars.limit=4&followup.sections=repositories&followup.indepth=false&config.timezone=America%2FSao_Paulo) -->
 
  <p align="center">
-	<img width="625em" src="https://metrics.lecoq.io/RodrigoAnjos2004?template=classic&isocalendar=1&stars=1&followup=1&isocalendar.duration=half-year&stars.limit=4&followup.sections=repositories&followup.indepth=false&config.timezone=America%2FSao_Paulo" />
+	<img width="625em" src="https://camo.githubusercontent.com/18a9d55734ba2b57b9c5b358f0eb2ad4e10ae2a0270009710aefd8b4d16dc6be/68747470733a2f2f6d6574726963732e6c65636f712e696f2f526f647269676f416e6a6f73323030343f74656d706c6174653d636c61737369632669736f63616c656e6461723d312673746172733d3126666f6c6c6f7775703d312669736f63616c656e6461722e6475726174696f6e3d68616c662d796561722673746172732e6c696d69743d3426666f6c6c6f7775702e73656374696f6e733d7265706f7369746f7269657326666f6c6c6f7775702e696e64657074683d66616c736526636f6e6669672e74696d657a6f6e653d416d657269636125324653616f5f5061756c6f" />
 </p>
 
 <!--   
