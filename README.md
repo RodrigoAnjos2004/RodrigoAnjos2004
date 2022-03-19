@@ -1,7 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=170&section=header&text=Rodrigo Silva dos Anjos&fontSize=30&fontColor=add8e6 "/>
- <div align="center">
-  <img align="center" alt="" height="30" width="190" src="https://komarev.com/ghpvc/?username=RodrigoAnjos2004&color=grey" alt="RodrigoAnjos2004" /> <br>
- </div> 
+
+<!--  <div align="center">
+  <img align="center" height="50" width="190" src="https://komarev.com/ghpvc/?username=RodrigoAnjos2004&color=grey"/> 
+ </div>  -->
+ 
+
+ 
   <details>
 <summary>🐱‍💻 Trilha de aprendizagem 2022 🐱‍💻</summary>
 
