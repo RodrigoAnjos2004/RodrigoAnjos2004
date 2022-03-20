@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=170&section=header&text=Rodrigo Silva dos Anjos&fontSize=30&fontColor=add8e6 "/>
 
-<!--  <div align="center">
-  <img align="center" height="50" width="190" src="https://komarev.com/ghpvc/?username=RodrigoAnjos2004&color=grey"/> 
- </div>  -->
+  <div align="center">
+  <img align="center" height="20" width="140" src="https://komarev.com/ghpvc/?username=RodrigoAnjos2004&color=grey"/> 
+ </div>  
  
 
  
