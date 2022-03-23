@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=170&section=header&text=Rodrigo Silva dos Anjos&fontSize=30&fontColor=add8e6 "/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=111&height=170&section=header&text=Rodrigo Silva dos Anjos&fontSize=30&fontColor=ffff "/>
 
   <div align="center">
   <img align="center" height="20" width="140" src="https://komarev.com/ghpvc/?username=RodrigoAnjos2004&color=grey"/> 
@@ -40,12 +40,12 @@
 
 <div align="left">
   <a href="https://github.com/RodrigoAnjos2004">
-  <img height="213em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="255em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&theme=nord"/>
+  <img height="213em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="255em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&theme=vision-friendly-dark "/>
 
 </div>
  <div align="center">
-  <img height="400" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=nord" alt="RodrigoAnjos2004" />
+  <img height="400" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=vision-friendly-dark" alt="RodrigoAnjos2004" />
 </div> 
  
 # Linguagens
@@ -80,4 +80,4 @@ printf( "Yagami Raito");
 
 
    
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=190&section=footer&text=copyright @(RodrigoAnjos2004)&fontSize=20&fontColor=add8e6 "/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=111&height=190&section=footer&text=copyright @(RodrigoAnjos2004)&fontSize=20&fontColor=ffff "/>
