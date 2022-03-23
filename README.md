@@ -40,13 +40,14 @@
 
 <div align="left">
   <a href="https://github.com/RodrigoAnjos2004">
-  <img height="213em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="255em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&theme=vision-friendly-dark "/>
+  <img height="213em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
+  <img height="255em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&theme=noctis_minimus"/>
 
 </div>
+ <!--
  <div align="center">
-  <img height="400" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=vision-friendly-dark" alt="RodrigoAnjos2004" />
-</div> 
+  <img height="400" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=noctis_minimus" alt="RodrigoAnjos2004" />
+</div>  -->
  
 # Linguagens
 <h4 align="center">Linguagens mais usadas (por número de commits)</h4>
