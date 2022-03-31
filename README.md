@@ -34,7 +34,7 @@
   <img align="center" alt="rd-git" height="40" width="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 
 </div> 
-
+<!-- 
 # Linguagens
 <h4 align="center">Linguagens mais usadas (por número de commits)</h4>
 <p align="center">
@@ -68,7 +68,7 @@ printf( "Yagami Raito");
 - [ ] Aprender o maximo sobre React e Node.js
 - [ ] + umas 500 coisas
 .....
-</details>
+</details> -->
 
 <!-- ![Metrics](https://metrics.lecoq.io/RodrigoAnjos2004?template=classic&isocalendar=1&languages=1&people=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=America%2FSao_Paulo)
  -->
@@ -77,4 +77,5 @@ printf( "Yagami Raito");
 
 
    
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=111&height=190&section=footer&text=copyright @(RodrigoAnjos2004)&fontSize=20&fontColor=ffff "/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=111&height=190&section=footer&text=copyright @(RodrigoAnjos2004)&fontSize=20&fontColor=ffff "/>
+ -->
