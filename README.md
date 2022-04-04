@@ -36,13 +36,18 @@
 </div> 
 
 # Linguagens
-<h4 align="center">Linguagens mais usadas (por número de commits)</h4>
+	
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=RodrigoAnjos2004&skills=CSS,HTML,JSON,JavaScript,PHP,Python,SCSS.Other,C%2B%2B,C%23,SCSS,Svelte&width=820"
+/>
+
+<!-- <h4 align="center">Linguagens mais usadas (por número de commits)</h4>
 <p align="center">
 	<a href="https://profile.codersrank.io/user/RodrigoAnjos2004#Tech%20Skills">
 		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=RodrigoAnjos2004&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,HTML,JavaScript,PHP,Python,SCSS,SQL,Shell,&show-other-skills=true&bg=white">
 	</a>
 </p>
-
+ -->
 ```RD
 #include <stdio.h>
 int main( ) {
@@ -58,6 +63,7 @@ printf( "Yagami Raito");
    return 0;
 }
 ```
+	
    <details>
 <summary>🐱‍💻 Trilha de aprendizagem 2022 🐱‍💻</summary>
 
@@ -69,6 +75,13 @@ printf( "Yagami Raito");
 - [ ] + umas 500 coisas
 .....
 </details> 
+	   
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=RodrigoAnjos2004&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:5px"
+/>
+	   
+	   
+	   
 
  ![Metrics](https://metrics.lecoq.io/RodrigoAnjos2004?template=classic&isocalendar=1&languages=1&people=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=America%2FSao_Paulo)
 <!--   
