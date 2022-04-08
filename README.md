@@ -1,27 +1,27 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=111&height=170&section=header&text=Rodrigo Silva dos Anjos&fontSize=30&fontColor=ffff "/>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=170&section=header&text=Rodrigo Silva dos Anjos&fontSize=30&fontColor=0e1921  "/>
+<!-- 
   <div align="center">
-  <img align="center" height="20" width="140" src="https://komarev.com/ghpvc/?username=RodrigoAnjos2004&color=grey"/> 
- </div>  
+  <img align="center" height="20" width="140" fontSize="30" src="https://readme-typing-svg.herokuapp.com/?lines=Rodrigo+Silva+dos+Anjos"/> 
+ </div>   -->
  
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Rodrigo+Silva+dos+Anjos)](https://git.io/typing-svg)
+  -->
 
-<div style="display: inline_block;" align="right"><br>
-    <a href="https://app.daily.dev/RD2004"><img align="right" alt="rd-pic" height="360" src="https://api.daily.dev/devcards/f1a0af5038274a0dae81b9ab55852530.png?r=cd5" alt="Rodrigo Silva dos Anjos's Dev Card"> 
-</div> 
- 
-
-
-<div align="left">
+<div align="center">
   <a href="https://github.com/RodrigoAnjos2004">
-  <img height="213em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="255em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&theme=dark "/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&show_icons=true&theme=onedark" &include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&theme=onedark  "/>
 
 </div>
  
  <div align="center">
-  <img height="400" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=dark" alt="RodrigoAnjos2004" />
+  <img height="200" width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=onedark" alt="RodrigoAnjos2004" />
 </div>  
+	
    <h3 align="center" height="20" >Languages and Tools:</h3>
+	
+				 
+				 
   <div style="display: inline_block;" align="center"><br>
   <img align="center" alt="rd-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="rd-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -76,18 +76,37 @@ printf( "Yagami Raito");
 .....
 </details> 
 	   
+	   
+	   
+   <details>
+<summary>🐱‍💻 Card dev 🐱‍💻</summary>
+	   
+<div style="display: inline_block;" align="center"><br>
+   <img align="center" alt="rd-pic" height="360" src="https://api.daily.dev/devcards/f1a0af5038274a0dae81b9ab55852530.png?r=cd5" alt="Rodrigo Silva dos Anjos's Dev Card">   
+</div> 
+	   
+</details> 	   
+	   
+    
+   <details>
+<summary>🐱‍💻 Metrics 🐱‍💻</summary>
+	
+ ![Metrics](https://metrics.lecoq.io/RodrigoAnjos2004?template=classic&isocalendar=1&languages=1&people=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=America%2FSao_Paulo)   
+
+	   
+</details> 	   
+	   	   
+<!--   
+[![RodrigoAnjos2004's github activity graph](https://activity-graph.herokuapp.com/graph?username=RodrigoAnjos2004&theme=nord)](https://github.com/RodrigoAnjos2004/github-readme-activity-graph) -->
+
+	   
+	   
+	   
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=RodrigoAnjos2004&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:5px"
 />
 	   
 	   
-	   
-
- ![Metrics](https://metrics.lecoq.io/RodrigoAnjos2004?template=classic&isocalendar=1&languages=1&people=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=America%2FSao_Paulo)
-<!--   
-[![RodrigoAnjos2004's github activity graph](https://activity-graph.herokuapp.com/graph?username=RodrigoAnjos2004&theme=nord)](https://github.com/RodrigoAnjos2004/github-readme-activity-graph) -->
-
-
    
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=111&height=190&section=footer&text=copyright @(RodrigoAnjos2004)&fontSize=20&fontColor=ffff "/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=190&section=footer&text=copyright @(RodrigoAnjos2004)&fontSize=20&fontColor=0e1921 "/>
 
