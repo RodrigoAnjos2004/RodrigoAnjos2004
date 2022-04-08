@@ -98,14 +98,7 @@ printf( "Yagami Raito");
 	   	   
 <!--   
 [![RodrigoAnjos2004's github activity graph](https://activity-graph.herokuapp.com/graph?username=RodrigoAnjos2004&theme=nord)](https://github.com/RodrigoAnjos2004/github-readme-activity-graph) -->
-
-	   
-	   
-	   
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=RodrigoAnjos2004&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:5px"
-/>
-	   
+ 
 	   
    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=190&section=footer&text=copyright @(RodrigoAnjos2004)&fontSize=20&fontColor=0e1921 "/>
