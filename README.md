@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=170&section=header&text=Rodrigo Silva dos Anjos&fontSize=30&fontColor=0e1921  "/>
 
  <div align="center">
-<img width="35" alt="about" src="https://cdn-icons-png.flaticon.com/128/3011/3011270.png"> Um poucosobre mim
+<img width="35" alt="about" src="https://cdn-icons-png.flaticon.com/128/3011/3011270.png"> 
  </div>
 
 <!-- <img align="right"  width="275" src="https://www.pngitem.com/pimgs/m/209-2098662_batman-thinker-sitting-hd-png-download.png" />
