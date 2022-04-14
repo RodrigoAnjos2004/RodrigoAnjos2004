@@ -1,4 +1,56 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=170&section=header&text=Rodrigo Silva dos Anjos&fontSize=30&fontColor=0e1921  "/>
+
+ <div align="center">
+<img width="35" alt="about" src="https://cdn-icons-png.flaticon.com/128/3011/3011270.png"> Um poucosobre mim
+ </div>
+
+<!-- <img align="right"  width="275" src="https://www.pngitem.com/pimgs/m/209-2098662_batman-thinker-sitting-hd-png-download.png" />
+ -->
+```ruby
+
+object ** BIO ** {
+
+ var Nome = "Me chamo rodrigo , tenho 17 anos"
+ 
+ var Cursando = "Sou estudante de Análise e Desenv. de Sistemas."
+ 
+ var Objetivo = "Tenho como objetivo conseguir um estágio na área para provar meu 
+ potencial e adquirir experiência , minha meta na área de tecnologia é me tornar Dev - Full Stack"
+
+ const Habits = "
+ Musica,
+ Estudar,
+ Programar,
+ Academia,
+ Futebol,
+ Meditar,
+ Dormir,
+ Desafios,
+ Filmes,
+ Mais_filmes,
+ Livros,
+ Mais_livros,
+ Já_Falei_Livros?,
+ Games;"
+ 
+}
+```
+<!-- [website]: https://codedev.ga/
+[twitter]: https://twitter.com/SEUTWITTER
+[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
+[instagram]: https://www.instagram.com/SEUINSTAGRAM/
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+<br>
+
+#### Rede Sociais!
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+ -->
+
 <!-- 
   <div align="center">
   <img align="center" height="20" width="140" fontSize="30" src="https://readme-typing-svg.herokuapp.com/?lines=Rodrigo+Silva+dos+Anjos"/> 
@@ -6,6 +58,7 @@
  
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Rodrigo+Silva+dos+Anjos)](https://git.io/typing-svg)
   -->
+## **GitHub Estatísticas**
 
 <div align="center">
   <a href="https://github.com/RodrigoAnjos2004">
@@ -18,7 +71,7 @@
   <img height="200" width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=onedark" alt="RodrigoAnjos2004" />
 </div>  
 	
-   <h3 align="center" height="20" >Languages and Tools:</h3>
+   <h3 align="center" height="20" >Linguagens e Ferramentas:</h3>
 	
 				 
 				 
@@ -34,8 +87,6 @@
   <img align="center" alt="rd-git" height="40" width="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 
 </div> 
-
-# Linguagens
 	
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=RodrigoAnjos2004&skills=CSS,HTML,JSON,JavaScript,PHP,Python,SCSS.Other,C%2B%2B,C%23,SCSS,Svelte&width=820"
@@ -65,7 +116,7 @@ printf( "Yagami Raito");
 ```
 	
    <details>
-<summary>🐱‍💻 Trilha de aprendizagem 2022 🐱‍💻</summary>
+<summary>🦇 Trilha de aprendizagem 2022 🦇</summary>
 
     <Lista(não completa)>
 
@@ -79,7 +130,7 @@ printf( "Yagami Raito");
 	   
 	   
    <details>
-<summary>🐱‍💻 Card dev 🐱‍💻</summary>
+<summary>🦇 Card dev 🦇</summary>
 	   
 <div style="display: inline_block;" align="center"><br>
    <img align="center" alt="rd-pic" height="360" src="https://api.daily.dev/devcards/f1a0af5038274a0dae81b9ab55852530.png?r=cd5" alt="Rodrigo Silva dos Anjos's Dev Card">   
@@ -89,7 +140,7 @@ printf( "Yagami Raito");
 	   
     
    <details>
-<summary>🐱‍💻 Metrics 🐱‍💻</summary>
+<summary>🦇 Metrics 🦇</summary>
 	
  ![Metrics](https://metrics.lecoq.io/RodrigoAnjos2004?template=classic&isocalendar=1&languages=1&people=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=America%2FSao_Paulo)   
 
