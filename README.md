@@ -31,8 +31,11 @@
   <img align="center" alt="rd-React" height="40" width="40" src="https://logospng.org/download/react/logo-react-1024.png">
   <img align="center" alt="rd-boot" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png">
   <img align="center" alt="rd-mysql" height="40" width="40" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png">
-  <img align="center" alt="rd-php" height="40" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
+  <img align="center" alt="rd-php" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
   <img align="center" alt="rd-git" height="40" width="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+  <img align="center" alt="rd-rn" height="40" width="35" src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png">
+  <img align="center" alt="rd-node" height="40" width="100" src="https://southsystem.files.wordpress.com/2018/09/nodejs.png">
+
 
 </div> 
 
