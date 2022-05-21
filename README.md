@@ -37,12 +37,13 @@
   <h3 align="center" height="20" >GitHub Estatísticas:</h3>
   
  <div align="center">
-  <img height="200" width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=dark" alt="RodrigoAnjos2004" /> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&show_icons=true&theme=dark" &include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200" width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=vision-friendly-dark" alt="RodrigoAnjos2004" /> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&show_icons=true&theme=great-gatsby" &include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 																		      
  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RodrigoAnjos2004&bg_color=000&color=708090&line=ff0000&point=7fffd9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
