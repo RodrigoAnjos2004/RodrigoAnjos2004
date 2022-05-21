@@ -1,20 +1,8 @@
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=170&section=header&text=Rodrigo Silva dos Anjos&fontSize=30&fontColor=FF0000   "/> 
 
  <div align="center">
-<img width="100%" alt="about" src="https://github.com/RodrigoAnjos2004/RodrigoAnjos2004/blob/main/rodrigo.png"> 
+<img width="200%" alt="about" src="https://github.com/RodrigoAnjos2004/RodrigoAnjos2004/blob/main/Untitled.png"> 
  </div>
 
-<!-- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=170&section=header&text=Rodrigo Silva dos Anjos&fontSize=30&fontColor=FF0000   "/> -->
-
-
-<!--  <div align="center">
-<img width="35" alt="about" src="https://cdn-icons-png.flaticon.com/128/3011/3011270.png"> 
- </div> -->
-
-<!-- <img align="right"  width="275" src="https://www.pngitem.com/pimgs/m/209-2098662_batman-thinker-sitting-hd-png-download.png" />
- -->
 ```dart
 
                                                           object ** BIO ** {
@@ -28,42 +16,6 @@
 
 }
 ```
-<!-- [website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-<br>
-
-#### Rede Sociais!
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
- -->
-
-<!-- 
-  <div align="center">
-  <img align="center" height="20" width="140" fontSize="30" src="https://readme-typing-svg.herokuapp.com/?lines=Rodrigo+Silva+dos+Anjos"/> 
- </div>   -->
- 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Rodrigo+Silva+dos+Anjos)](https://git.io/typing-svg)
-  -->
-
-  <h3 align="center" height="20" >GitHub Estatísticas:</h3>
-
-<div align="center">
-  <a href="https://github.com/RodrigoAnjos2004">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&show_icons=true&theme=dark" &include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&theme=dark   "/>
-
-</div>
- 
- <div align="center">
-  <img height="200" width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=dark" alt="RodrigoAnjos2004" />
-</div>  
 	
    <h3 align="center" height="20" >Linguagens e Ferramentas:</h3>
 	
@@ -81,28 +33,21 @@
   <img align="center" alt="rd-git" height="40" width="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 
 </div> 
-<!--
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=RodrigoAnjos2004&skills=CSS,HTML,JSON,JavaScript,PHP,Python,SCSS.Other,C%2B%2B,C%23,SCSS,Svelte&width=820"
-/>
--->
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=RodrigoAnjos2004&theme=xcode&hide_border=true&area=true)
+  <h3 align="center" height="20" >GitHub Estatísticas:</h3>
+  
+ <div align="center">
+  <img height="200" width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=dark" alt="RodrigoAnjos2004" /> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&show_icons=true&theme=dark" &include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&theme=dark"/>
+</div>
+																		      
+ 
 
 
 
-<!-- <h4 align="center">Linguagens mais usadas (por número de commits)</h4>
-<p align="center">
-	<a href="https://profile.codersrank.io/user/RodrigoAnjos2004#Tech%20Skills">
-		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=RodrigoAnjos2004&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,HTML,JavaScript,PHP,Python,SCSS,SQL,Shell,&show-other-skills=true&bg=white">
-	</a>
-</p>
- -->
- 
- 
- 
- 
- 
+<!--   -->
+  
 ```RD
 #include <stdio.h>
 int main( ) {
@@ -151,10 +96,6 @@ printf( "Yagami Raito");
 	   
 </details> 	   
 	   	   
-<!--   
-[![RodrigoAnjos2004's github activity graph](https://activity-graph.herokuapp.com/graph?username=RodrigoAnjos2004&theme=nord)](https://github.com/RodrigoAnjos2004/github-readme-activity-graph) -->
- 
+
 	   
    
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=190&section=footer&text=copyright @(RodrigoAnjos2004)&fontSize=20&fontColor=FF0000"/>
-
