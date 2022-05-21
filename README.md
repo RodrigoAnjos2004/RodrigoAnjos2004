@@ -11,8 +11,10 @@
  
  var Curso = "Sou estudante de Análise e Desenv. de Sistemas."
  
- var Objetivo = "Tenho como objetivo conseguir um estágio na área para provar meu 
- potencial e adquirir experiência , minha meta na área de tecnologia é me tornar Dev - Full Stack"
+ const  Objetivo = "Tenho como objetivo conseguir um estágio na área para provar meu 
+ potencial e adquirir experiência , minha meta na área de tecnologia é me tornar Dev - Full Stack "
+ 
+ const  Provavelmente = "Em algum momento futuro também gostaria de adentrar à área de Segurança da informação"; 
 
 }
 ```
