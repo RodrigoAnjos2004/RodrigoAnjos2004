@@ -1,6 +1,6 @@
 
  <div align="center">
-<img width="200%" alt="about" src="https://github.com/RodrigoAnjos2004/RodrigoAnjos2004/blob/main/Untitled.png"> 
+<!-- <img width="200%" alt="about" src="https://github.com/RodrigoAnjos2004/RodrigoAnjos2004/blob/main/Untitled.png">  -->
  </div>
 
 ```dart
