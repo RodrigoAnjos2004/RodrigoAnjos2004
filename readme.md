@@ -36,9 +36,9 @@
   <h3 align="center" height="20" >GitHub Estatísticas:</h3>
 
  <div align="center">
-  <img height="223em" width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=highcontrast" alt="RodrigoAnjos2004" /> 
-  <img height="223em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&bg_color=1,000000,9b111e&title_color=fff&text_color=fff"/>
-  <img height="223em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&bg_color=1,9b111e,000000&title_color=fff&text_color=fff"/>
+  <img height="200em" width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=highcontrast" alt="RodrigoAnjos2004" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&bg_color=1,000000,9b111e&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&bg_color=1,9b111e,000000&title_color=fff&text_color=fff"/>
 </div>
 
 
