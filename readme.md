@@ -47,8 +47,13 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+<div align="center">
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=q1ih9uc9sthmpu7g5mz9hqb5t&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-  
+</div>
+
+
+
 ```RD
 #include <stdio.h>
 int main( ) {
