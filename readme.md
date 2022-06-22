@@ -62,8 +62,8 @@
 <!-- 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=q1ih9uc9sthmpu7g5mz9hqb5t&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) -->
 	
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=q1ih9uc9sthmpu7g5mz9hqb5t&width=1000)
-
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=q1ih9uc9sthmpu7g5mz9hqb5t&width=1000)
+ -->
 	
 </div>
 
