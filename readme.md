@@ -1,5 +1,4 @@
-   <details>
-<summary>Abrakadabra</summary>
+
 	
  <div align="center">
  <img align="center" alt="rd-pic" height="360" src="https://api.daily.dev/devcards/f1a0af5038274a0dae81b9ab55852530.png?r=h28" 
@@ -84,6 +83,6 @@ printf( "Yagami Raito");
 
 ![](./profile-3d-contrib/profile-night-view.svg)
   
-</details> 
+
 	   
  
