@@ -1,4 +1,4 @@
-<!--    <details>
+   <details>
 <summary>Abrakadabra</summary>
 	
  <div align="center">
@@ -83,9 +83,7 @@ printf( "Yagami Raito");
 }
 ```
 
-
-	   
-	   
+  
 </details> 
 	   
  
