@@ -1,3 +1,5 @@
+
+
 ```RD - profile {
 
  Bio
@@ -8,7 +10,10 @@
 
 
 ```
-	
+		
+ <div align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/shook.png" alt="TryHackMe">
+</div>  
  <div align="center">
  <img align="center" alt="rd-pic" height="360" src="https://api.daily.dev/devcards/f1a0af5038274a0dae81b9ab55852530.png?r=h28" 
 alt="Rodrigo Silva dos Anjos's Dev Card">   
