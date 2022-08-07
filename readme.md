@@ -40,7 +40,7 @@ alt="Rodrigo Silva dos Anjos's Dev Card">
 ![](https://komarev.com/ghpvc/?username=RodrigoAnjos2004&style=for-the-badge&color=blue)
  </div>
 
-<h2 align="left" id="macropower-tech">Tech</h2>
+<h1 align="left" id="macropower-tech">Tech</h1>
 > Programming/markup languages.
 
 <p>
@@ -115,7 +115,7 @@ alt="Rodrigo Silva dos Anjos's Dev Card">
  
 
 
-# listening
+# Listening
 
 <details>
   <summary >click</summary>
