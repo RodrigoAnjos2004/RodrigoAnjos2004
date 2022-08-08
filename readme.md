@@ -1,38 +1,17 @@
 <p align="center">
     <img
-      src="https://capsule-render.vercel.app/api?type=Waving&height=200&section=header&text=Hello!&animation=scaleIn&fontAlign=80&fontAlignY=40&theme=radical" 
+      src="https://capsule-render.vercel.app/api?type=Waving&color=ffff&height=200&section=header&text=Hello!&fontColor=2053d0&animation=scaleIn&fontAlign=80&fontAlignY=40" 
       width="100%" 
     />
-</p>
-		
- <div align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/shook.png" alt="TryHackMe">
-</div>  
- <div align="center">
- <img align="center" alt="rd-pic" height="360" src="https://api.daily.dev/devcards/f1a0af5038274a0dae81b9ab55852530.png?r=h28" 
-alt="Rodrigo Silva dos Anjos's Dev Card">   
-</div> 
-
-   <h3 align="center" height="20" >bio</h3>
-
-```RD - profile {
-
- Bio
-
- Senai - desenv.sistemas - 3/3
- Iniciando em Hacking 
- Concept artist amateur
-
-
-```
+</p>		
 	
    <h3 align="center" height="20" >GitHub Estatísticas:</h3>
 
  <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RodrigoAnjos2004&column=3&margin-w=15&margin-h=15&theme=dark_dimmed"/>
-  <img height="200em" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=highcontrast" alt="RodrigoAnjos2004" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&bg_color=1,000000,0e2249&title_color=fff&text_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&bg_color=1,0e2249,000000&title_color=fff&text_color=fff"/>
+  <img height="200em" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=graywhite" alt="RodrigoAnjos2004" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=RodrigoAnjos2004&column=6&margin-w=15&margin-h=15&theme=graywhite"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&bg_color=1,fff,777&title_color=2053d0&text_color=000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&bg_color=1,777,fff&title_color=2053d0&text_color=000"/>
 </div>
 
   <div align="center">
@@ -107,12 +86,43 @@ alt="Rodrigo Silva dos Anjos's Dev Card">
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?style=flat&logo=linux&logoColor=black"></a>
 </p>
 
+# Bio
+<details>
+  <summary >click</summary>	
+
+```RD - profile {
+
+ Bio
+
+ Senai - desenv.sistemas - 3/3
+ Iniciando em Hacking 
+ Concept artist amateur
 
 
+```
+</details>
 
 
-	
- 
+# DevCard
+<details>
+  <summary >click</summary>	
+
+
+ <div align="center">
+ <img align="center" alt="rd-pic" height="360" src="https://api.daily.dev/devcards/f1a0af5038274a0dae81b9ab55852530.png?r=h28" 
+alt="Rodrigo Silva dos Anjos's Dev Card">   
+</div> 
+</details>
+
+
+# TryHackMe
+
+<details>
+  <summary >click</summary>	
+  <div align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/shook.png" alt="TryHackMe">
+</div>  
+</details>
 
 
 # Listening
@@ -154,12 +164,12 @@ printf( "Yagami Raito");
 
 # Contributions
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-south-season-animate.svg)
   
 
 <p align="center">
     <img
-      src="https://capsule-render.vercel.app/api?type=Waving&height=200&section=footer&text=Thanks!&animation=scaleIn&fontAlign=80&fontAlignY=40&theme=radical" 
+      src="https://capsule-render.vercel.app/api?type=Waving&color=ffff&height=200&section=footer&text=Thanks!&fontColor=2053d0&animation=scaleIn&fontAlign=80&fontAlignY=50" 
       width="100%" 
     />
 </p>   
