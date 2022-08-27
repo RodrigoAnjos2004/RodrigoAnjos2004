@@ -1,9 +1,4 @@
-<p align="center">
-    <img
-      src="https://capsule-render.vercel.app/api?type=Waving&color=ffff&height=200&section=header&text=Hello!&fontColor=2053d0&animation=scaleIn&fontAlign=80&fontAlignY=40" 
-      width="100%" 
-    />
-</p>		
+		
 	
    <h3 align="center" height="20" >GitHub Estatísticas:</h3>
 
@@ -167,9 +162,3 @@ printf( "Yagami Raito");
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
   
 
-<p align="center">
-    <img
-      src="https://capsule-render.vercel.app/api?type=Waving&color=ffff&height=200&section=footer&text=Thanks!&fontColor=2053d0&animation=scaleIn&fontAlign=80&fontAlignY=50" 
-      width="100%" 
-    />
-</p>   
