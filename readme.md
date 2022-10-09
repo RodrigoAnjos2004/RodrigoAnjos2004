@@ -1,3 +1,16 @@
+
+```RD - profile {
+
+ Bio
+
+ Senai - desenv.sistemas - 3/3
+ Estudando Hacking 
+ Concept artist amateur
+ Livro preferido: Inferno de dante
+ Hq preferida: Sandman
+
+
+```
 <h3 align="center" height="20" >GitHub Estatísticas:</h3>
 
  <div align="center">
@@ -66,21 +79,6 @@
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?style=flat&logo=linux&logoColor=black"></a>
 </p>
 
-# Bio
-<details>
-  <summary >click</summary>	
-
-```RD - profile {
-
- Bio
-
- Senai - desenv.sistemas - 3/3
- Iniciando em Hacking 
- Concept artist amateur
-
-
-```
-</details>
 
 
 # DevCard
