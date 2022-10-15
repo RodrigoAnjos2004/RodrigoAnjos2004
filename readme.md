@@ -1,4 +1,3 @@
-
 ```RD - profile {
 
  Bio
@@ -11,18 +10,28 @@
 
 
 ```
+<h4 align="center">
+
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/RodrigoAnjos2004)](https://www.instagram.com/orealrodrigo/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/RodrigoAnjos2004)](https://www.linkedin.com/in/rodrigo-s-a149a220b/)
+
+</h4>
+
 <h3 align="center" height="20" >GitHub Estatísticas:</h3>
 
  <div align="center">
-  <img height="200em" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=graywhite" alt="RodrigoAnjos2004" /> 
-  <img src="https://github-profile-trophy.vercel.app/?username=RodrigoAnjos2004&column=6&margin-w=15&margin-h=15&theme=graywhite"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&bg_color=1,fff,777&title_color=2053d0&text_color=000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&bg_color=1,777,fff&title_color=2053d0&text_color=000"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=RodrigoAnjos2004&column=6&margin-w=15&margin-h=15&theme=dracula"/>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodrigoAnjos2004&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoAnjos2004&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RodrigoAnjos2004&theme=dracula) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodrigoAnjos2004&theme=dracula) | ![](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=dracula) |
+| :-: | :-: |
 </div>
 
   <div align="center">
 
-![](https://komarev.com/ghpvc/?username=RodrigoAnjos2004&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=RodrigoAnjos2004&style=for-the-badge&color=red)
  </div>
 
 <h1 align="left" id="macropower-tech">Tech</h1>
@@ -80,19 +89,6 @@
 </p>
 
 
-
-# DevCard
-<details>
-  <summary >click</summary>	
-
-
- <div align="center">
- <img align="center" alt="rd-pic" height="360" src="https://api.daily.dev/devcards/f1a0af5038274a0dae81b9ab55852530.png?r=h28" 
-alt="Rodrigo Silva dos Anjos's Dev Card">   
-</div> 
-</details>
-
-
 # TryHackMe
 
 <details>
@@ -117,31 +113,8 @@ alt="Rodrigo Silva dos Anjos's Dev Card">
 </div>
 </details>
 
-# Quote
-
-<details>
-  <summary>click</summary>
-
-```RD
-#include <stdio.h>
-int main( ) {
-
-int r;
-
-printf( "Eu tenho em minhas mãos os meios e, em meu coração, a vontade.");
-c = getchar( );
-
-printf( "Yagami Raito");
-   putchar( r );
-
-   return 0;
-}
-```
-</details>
-
-
 # Contributions
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
   
 
