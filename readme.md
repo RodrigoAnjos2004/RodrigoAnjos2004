@@ -20,14 +20,13 @@
 <h3 align="center" height="20" >GitHub Estatísticas:</h3>
 
  <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=RodrigoAnjos2004&column=6&margin-w=15&margin-h=15&theme=dracula"/>
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodrigoAnjos2004&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoAnjos2004&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RodrigoAnjos2004&theme=dracula) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodrigoAnjos2004&theme=dracula) | ![](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=dracula) |
-| :-: | :-: |
+  <img height="200em" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=graywhite" alt="RodrigoAnjos2004" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=RodrigoAnjos2004&column=6&margin-w=15&margin-h=15&theme=graywhite"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&bg_color=1,fff,888&title_color=2053d0&text_color=000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&bg_color=1,888,fff&title_color=2053d0&text_color=000"/>
 </div>
+
+
 
   <div align="center">
 
