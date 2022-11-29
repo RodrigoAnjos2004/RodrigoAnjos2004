@@ -1,11 +1,5 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=be5046&text=Hi,I%20am%20Rodrigo%20Silva&animation=fadeIn&fontSize=60&desc=developer&descAlignY=95&descAlign=80)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=be5046&text=Hi,I%20am%20Rodrigo%20Silva&animation=fadeIn&fontSize=60&desc=&descAlignY=55&descAlign=80)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
