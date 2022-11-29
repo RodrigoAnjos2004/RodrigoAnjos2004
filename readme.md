@@ -129,4 +129,3 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
   
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=be5046&t&animation=fadeIn&fontSize=60&desc=copyright@2022&descAlignY=55&descAlign=60)
