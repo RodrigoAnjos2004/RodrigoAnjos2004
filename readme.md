@@ -1,3 +1,14 @@
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=be5046&text=Hi,I%20am%20Rodrigo%20Silva&animation=fadeIn&fontSize=60&desc=developer&descAlignY=95&descAlign=80)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ```RD - profile {
 
  Bio
@@ -10,6 +21,7 @@
 
 
 ```
+
 <h4 align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/RodrigoAnjos2004)](https://www.instagram.com/orealrodrigo/)
@@ -20,10 +32,11 @@
 <h3 align="center" height="20" >GitHub Estatísticas:</h3>
 
  <div align="center">
-  <img height="200em" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=graywhite" alt="RodrigoAnjos2004" /> 
-  <img src="https://github-profile-trophy.vercel.app/?username=RodrigoAnjos2004&column=6&margin-w=15&margin-h=15&theme=graywhite"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&bg_color=1,fff,888&title_color=2053d0&text_color=000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&bg_color=1,888,fff&title_color=2053d0&text_color=000"/>
+  <img height="200em" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAnjos2004&theme=onedark" alt="RodrigoAnjos2004" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=RodrigoAnjos2004&column=6&margin-w=15&margin-h=15&theme=onedark"/>
+	
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAnjos2004&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoanjos2004&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 
@@ -116,4 +129,4 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
   
-
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=be5046&t&animation=fadeIn&fontSize=60&desc=copyright@2022&descAlignY=55&descAlign=60)
