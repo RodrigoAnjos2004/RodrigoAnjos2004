@@ -5,13 +5,13 @@
 
 ```RD - profile {
 
-					 Bio
+						 Bio
 
-					 > Senai - desenv.sistemas - 3/3      <
-					 > Estudando Hacking                  <
-					 > Concept artist amateur             <
-					 > Livro preferido: Inferno de dante  <
-					 > Hq preferida: Sandman              <
+						 > Senai - desenv.sistemas - 3/3      <
+						 > Estudando Hacking                  <
+						 > Concept artist amateur             <
+						 > Livro preferido: Inferno de dante  <
+						 > Hq preferida: Sandman              <
 
 
 ```
