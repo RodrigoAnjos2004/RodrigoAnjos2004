@@ -5,17 +5,18 @@
 
 ```RD - profile {
 
- Bio
+					 Bio
 
- Senai - desenv.sistemas - 3/3
- Estudando Hacking 
- Concept artist amateur
- Livro preferido: Inferno de dante
- Hq preferida: Sandman
+					 > Senai - desenv.sistemas - 3/3      <
+					 > Estudando Hacking                  <
+					 > Concept artist amateur             <
+					 > Livro preferido: Inferno de dante  <
+					 > Hq preferida: Sandman              <
 
 
 ```
-
+<details>
+  <summary >see more</summary>
 <h4 align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/RodrigoAnjos2004)](https://www.instagram.com/orealrodrigo/)
@@ -98,7 +99,7 @@
 # TryHackMe
 
 <details>
-  <summary >click</summary>	
+  <summary >see more</summary>	
   <div align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/shook.png" alt="TryHackMe">
 </div>  
@@ -108,18 +109,18 @@
 # Listening
 
 <details>
-  <summary >click</summary>
+  <summary >see more</summary>
 <div align="center">
 <!-- 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=q1ih9uc9sthmpu7g5mz9hqb5t&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) -->
 	
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=q1ih9uc9sthmpu7g5mz9hqb5t&width=1000)
-
 	
-</div>
-</details>
-
 # Contributions
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+</div>
+</details>
+</details>
+
   
