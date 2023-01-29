@@ -1,22 +1,23 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=be5046&text=Hi,I%20am%20Rodrigo%20Silva&animation=fadeIn&fontSize=60&desc=&descAlignY=55&descAlign=80)
+
+<a href="#"><img src="https://github.com/RodrigoAnjos2004/RodrigoAnjos2004/blob/main/rd02.png?raw=true"></a>
 
 <br>
 <br>
 
 ```RD - profile {
 
-						 Bio
+															Bio
 
-						 > Senai - desenv.sistemas - 3/3      <
-						 > Estudando Hacking                  <
-						 > Concept artist amateur             <
-						 > Livro preferido: Inferno de dante  <
-						 > Hq preferida: Sandman              <
+											> Senai - desenv.sistemas - 3/3      <
+											> Estudando Hacking                  <
+											> Concept artist amateur             <
+											> Livro preferido: Inferno de dante  <
+											> Hq preferida: Sandman              <
 
 
 ```
 <details>
-  <summary >see more</summary>
+  <summary >+</summary>
 <h4 align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/RodrigoAnjos2004)](https://www.instagram.com/orealrodrigo/)
@@ -99,7 +100,7 @@
 # TryHackMe
 
 <details>
-  <summary >see more</summary>	
+  <summary >+</summary>	
   <div align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/shook.png" alt="TryHackMe">
 </div>  
@@ -109,7 +110,7 @@
 # Listening
 
 <details>
-  <summary >see more</summary>
+  <summary >+</summary>
 <div align="center">
 <!-- 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=q1ih9uc9sthmpu7g5mz9hqb5t&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) -->
